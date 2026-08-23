@@ -1,6 +1,6 @@
 <!-- BANNER -->
 <div align="center">
-  <img src="https://github.com/Bymaduub/Bymaduub/blob/0a58164ffc7fc5aa3b596360b77fe1b734e77600/yellow.jpeg" width="100%" alt="Banner"/>
+  <img src="bat.jpeg" width="100%" alt="Banner"/>
 </div>
 
 <br/>
@@ -16,9 +16,7 @@
 
 ---
 
-## 👩‍💻 Sobre mim
-
-Olá! Eu sou **Maria Eduarda** 👋
+## Sobre mim
 
 Sou estudante da área de tecnologia e informática e estou sempre buscando aprender, criar e transformar ideias em projetos.
 
@@ -34,7 +32,7 @@ Atualmente, tenho interesse em:
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## Tecnologias & Ferramentas
 
 <div align="center">
 
@@ -50,9 +48,9 @@ Atualmente, tenho interesse em:
 
 ---
 
-## 🚀 Projetos
+## Projetos
 
-### 📸 Sistema de Captura Veicular
+### Sistema de Captura Veicular
 
 Projeto acadêmico voltado ao desenvolvimento de um sistema embarcado para **captura de imagens e conectividade em veículos agrícolas**, considerando ambientes com vibração, poeira e intempéries.
 
@@ -62,7 +60,7 @@ Projeto acadêmico voltado ao desenvolvimento de um sistema embarcado para **cap
 
 ---
 
-## 📊 Estatísticas do GitHub
+## Estatísticas do GitHub
 
 <div align="center">
 
@@ -74,7 +72,7 @@ Projeto acadêmico voltado ao desenvolvimento de um sistema embarcado para **cap
 
 ---
 
-## 📜 Gráfico de Contribuições
+## Gráfico de Contribuições
 
 <div align="center">
 
@@ -84,7 +82,7 @@ Projeto acadêmico voltado ao desenvolvimento de um sistema embarcado para **cap
 
 ---
 
-## 🕯️ Formação
+##  Formação
 
 | | Área | Status |
 |:---:|:---|:---:|
@@ -95,7 +93,7 @@ Projeto acadêmico voltado ao desenvolvimento de um sistema embarcado para **cap
 
 ---
 
-## 🌱 Atualmente aprendendo
+##  Atualmente aprendendo
 
 ```text
 ▸ Desenvolvimento Web
